@@ -206,12 +206,7 @@ export default function Login() {
               {loading ? 'Signing in...' : 'Sign In'}
             </button>
           </form>
-
-          <div className="demo-info">
-            <strong>Demo Credentials (Change on first login):</strong>
-            <div className="demo-cred">👤 mubeenahmad / Temp123!A</div>
-            <div className="demo-cred">👤 hamzanadeem / Temp456!B</div>
-            <div className="demo-cred">👤 saadbutt / Temp789!C</div>
+              
           </div>
         </div>
       </div>
